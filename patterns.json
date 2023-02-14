@@ -1,0 +1,19 @@
+{
+	"users":[
+		{
+			"id": 1,
+			"name": "Palko",
+			"email": "palko@gmail.sk"
+		},
+		{
+			"id": 2,
+			"name": "Misko",
+			"email": "misko@gmail.cz"
+		}
+		{
+			"id": 3,
+			"name": "Jurko",
+			"email": "jurko@gmail.cz"
+		}
+	]
+}
